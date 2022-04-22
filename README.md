@@ -1,5 +1,7 @@
 # ProjectApp
 
+## The app is available at https://angular-project-63eaa.web.app/auth
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
